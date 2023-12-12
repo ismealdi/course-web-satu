@@ -1,0 +1,24 @@
+body {
+    background-color: aliceblue;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.navbar.nav-rs {
+    background: linear-gradient(90deg, rgba(51, 115, 186, 1) 0%,
+            rgba(78, 168, 220, 1) 50%, rgba(45, 192, 202, 1) 100%);
+}
+
+.nav-rs .navbar-brand {
+    color: #FFF;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+}
+
+.nav-rs .navbar-nav .nav-item a.nav-link {
+    color: #fff;
+    font-size: 0.8rem;
+}
